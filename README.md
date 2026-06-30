@@ -25,7 +25,7 @@ cd ..
 
 3. Move the themes to the hyprland config folder
 ```
-mv hyprlock ~/.config/hypr
+mv hyprlock-themes ~/.config/hypr
 ```
 
 4. Backup the old hyprlock config (Optional)
@@ -38,12 +38,12 @@ mv hyprlock.config hyprlock.config.backup
 
 > Variant 1
 ```
-cp ~/.config/hypr/hyprlock/Hyprlock-themes/hyprlock-v1.conf ~/.config/hypr
+cp ~/.config/hypr/hyprlock-themes/hyprlock-v1.conf ~/.config/hypr
 mv ~/.config/hypr/hyprlock-v1.conf ~/.config/hypr/hyprlock.conf
 ```
 
 > Variant 2
 ```
-cp ~/.config/hypr/hyprlock/Hyprlock-themes/hyprlock-v2.conf ~/.config/hypr
+cp ~/.config/hypr/hyprlock-themes/hyprlock-v2.conf ~/.config/hypr
 mv ~/.config/hypr/hyprlock-v2.conf ~/.config/hypr/hyprlock.conf
 ```
