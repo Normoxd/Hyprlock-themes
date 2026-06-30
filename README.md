@@ -47,3 +47,5 @@ mv ~/.config/hypr/hyprlock-v1.conf ~/.config/hypr/hyprlock.conf
 cp ~/.config/hypr/hyprlock-themes/hyprlock-v2.conf ~/.config/hypr
 mv ~/.config/hypr/hyprlock-v2.conf ~/.config/hypr/hyprlock.conf
 ```
+
+6. Copy over your profile picture as `~/.config/hypr/user.png`
