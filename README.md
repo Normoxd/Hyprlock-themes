@@ -31,7 +31,7 @@ mv hyprlock-themes ~/.config/hypr
 4. Backup the old hyprlock config (Optional)
 ```
 cd ~/.config/hypr
-mv hyprlock.config hyprlock.config.backup
+mv hyprlock.conf hyprlock.conf.backup
 ```
 
 5. Replace the hyprlock config with any theme variant you like
