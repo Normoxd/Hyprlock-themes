@@ -19,7 +19,7 @@ cd fonts
 mv AdwaitaSans-Regular.ttf ~/.local/share/fonts
 mv LondrinaOutline-Regular.ttf ~/.local/share/fonts
 mv "Product Sans Bold.ttf" ~/.local/share/fonts
-mv "Product Sans Regular.tff" ~/.local/share/fonts
+mv "Product Sans Regular.ttf" ~/.local/share/fonts
 cd ..
 ```
 
