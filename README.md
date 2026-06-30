@@ -1,5 +1,11 @@
 # Hyprlock themes
 
+> Variant 1
+![Overview](https://github.com/Normoxd/Hyprlock-themes/blob/main/overview/v1.png?raw=true)
+
+> Variant 2
+![Overview](https://github.com/Normoxd/Hyprlock-themes/blob/main/overview/v2.png?raw=true)
+
 # ⚙️ Installation
 
 1. Clone the repo
@@ -30,13 +36,13 @@ mv hyprlock.config hyprlock.config.backup
 
 5. Replace the hyprlock config with any theme variant you like
 
-Variant 1
+> Variant 1
 ```
 cp ~/.config/hypr/hyprlock/Hyprlock-themes/hyprlock-v1.conf ~/.config/hypr
 mv ~/.config/hypr/hyprlock-v1.conf ~/.config/hypr/hyprlock.conf
 ```
 
-Variant 2
+> Variant 2
 ```
 cp ~/.config/hypr/hyprlock/Hyprlock-themes/hyprlock-v2.conf ~/.config/hypr
 mv ~/.config/hypr/hyprlock-v2.conf ~/.config/hypr/hyprlock.conf
